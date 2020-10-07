@@ -1,0 +1,6 @@
+origin=>master
+master=>main
+
+
+git remote add master https://github.com/wnrktkdtmd/CapstonDesign_FLINK.git
+git push -u matser main
